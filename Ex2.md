@@ -94,7 +94,7 @@ select ename from manager where commission=0;
 select ename from manager where ename like '%s' or ename like 's%';
 ```
 ### OUTPUT:
-![s2](https://github.com/vasundrasriravi/EX-2-Data-Manipulation-Language-DML-and-Data-Control-Language-DCL-Commands/assets/119393983/ecdaa05d-d40)
+![s2](https://github.com/vasundrasriravi/EX-2-Data-Manipulation-Language-DML-and-Data-Control-Language-DCL-Commands/assets/119393983/4252769b-40ff-4e3f-9a2f-af35d055e2ce)
 
 ### Q9) Sort emp table in ascending order by hire-date and list ename, job, deptno and hire-date.
 
